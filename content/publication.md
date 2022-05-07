@@ -1,4 +1,5 @@
 # 2022年
+## 国内学会
 - [スタンプラリー型イベントの参加者の回遊に関するモチベーションの実験的調査](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=217532&item_no=1&page_id=13&block_id=8)  
 坂本 唯斗, 御手洗 彰, 棟方 渚, 研究報告エンタテインメントコンピューティング (EC), March 2022.
 
@@ -11,6 +12,12 @@ Human-Agent Interactionシンポジウム2022, March 2022.
 
 
 # 2021年
+## 論文誌
+- [Designing Hand Gesture Sequence Recognition Technique for Input While Grasping an Object](https://doi.org/10.18974/tvrsj.26.4_333) Sho Mitarai, Nagisa Munekata, Daisuke Sakamoto, Tetsuo Ono
+Transactions of the Virtual Reality Society of Japan, 26(4), pages 333-344, December 2021.
+
+
+## 国内学会
 - [筋肉の非活動部位を入力モダリティとして用いたハンドジェスチャ認識手法の提案](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=213954&item_no=1&page_id=13&block_id=8)  研究報告ヒューマンコンピュータインタラクション (HCI), November 2021.
 御手洗 彰, 棟方 渚
 
@@ -31,6 +38,7 @@ Human-Agent Interactionシンポジウム2022, March 2022.
 Human-Agent Interactionシンポジウム2021, March 2021.
 
 # 2020年
+## 国内学会
 - [覚醒水準による人狼プレイヤの特徴分析の試み](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_2F4OS20a02/_article/-char/ja/)  
 山本 浩隆, 御手洗 彰, 棟方 渚
 人工知能学会全国大会論文集 第 34 回全国大会 (2020), pages 2F4OS20a02-2F4OS20a02, June 2020
