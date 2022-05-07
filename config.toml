@@ -1,0 +1,9 @@
+baseURL = 'https://munekata-lab.github.io/'
+languageCode = 'ja-jp'
+title = 'Munekata Laboratory'
+theme = 'hugo-flex'
+canonifyurls = true
+publishDir = "public"
+
+[site]
+title = 'Munekata Laboratory'
