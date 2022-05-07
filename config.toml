@@ -3,7 +3,7 @@ languageCode = 'ja-jp'
 title = 'Munekata Laboratory'
 theme = 'hugo-flex'
 canonifyurls = true
-publishDir = "public"
+publishDir = "docs"
 
 [site]
 title = 'Munekata Laboratory'
