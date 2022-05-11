@@ -1,7 +1,7 @@
 # 指導教員
 - [棟方　渚](https://www.kyoto-su.ac.jp/faculty/professors/ise/ise_munekata_nagisa.html)
 
-# D2
+# D3
 - 御手洗　彰
 
 # M2
@@ -33,7 +33,7 @@
 
 ### 2020年度修士卒
 - 山本　浩隆
-### 2021年度学部卒
+### 2020年度学部卒
 - 齊藤　神太
 - 小林　稔
 - 小松　昴生
