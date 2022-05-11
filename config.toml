@@ -1,5 +1,7 @@
 baseURL = 'https://munekata-lab.github.io/'
-languageCode = 'ja-jp'
+languageCode = 'ja'
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
 title = 'Munekata Laboratory'
 theme = 'hugo-flex'
 canonifyurls = true
