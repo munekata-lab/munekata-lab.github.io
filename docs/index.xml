@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://munekata-lab.github.io/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Munekata Laboratory</title>
@@ -6,56 +7,16 @@
     <description>Recent content on Munekata Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://munekata-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://munekata-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HAI最優秀論文賞</title>
       <link>https://munekata-lab.github.io/news/2022-03-09/</link>
       <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://munekata-lab.github.io/news/2022-03-09/</guid>
-      <description>M2の加藤くんがHAIシンポジウム2022にてHAI最優秀論文賞を受賞しました！</description>
+      <description>&lt;p&gt;M2の加藤くんがHAIシンポジウム2022にてHAI最優秀論文賞を受賞しました！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kyoto-su.ac.jp/news/2022_ise/s1gk4u0000096mtx-img/20220401_196_award.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
     </item>
-    
-    <item>
-      <title></title>
-      <link>https://munekata-lab.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://munekata-lab.github.io/about/</guid>
-      <description>京都産業大学　情報理工学部/先端情報学研究科 棟方研究室のWebサイトです．</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://munekata-lab.github.io/member/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://munekata-lab.github.io/member/</guid>
-      <description>指導教員  棟方　渚  D3  御手洗　彰  M2  辻　健一郎  M1  阿部　拓巳 坂本　唯斗 長江　明信 増田　智也  B4  梶原　隆太郎 木村　颯 小祝　亮樹 近藤　英雅 松中　誉生  OB 2021年度修士卒  加藤　雄大  2021年度学部卒  阿部　拓巳 坂本　唯斗 永井　知温 長江　明信 増田　智也  2020年度修士卒  山本　浩隆  2020年度学部卒  齊藤　神太 小林　稔 小松　昴生 辻　健一郎  2019年度学部卒  加藤　雄大 福知　慎也 三田村　俊樹 松下　優斗  2018年度学部卒  木村　優太 冨田　俊一 樋口　由樹 福吉　貴春 山本　浩隆  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://munekata-lab.github.io/publication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://munekata-lab.github.io/publication/</guid>
-      <description>2022年 国内学会   スタンプラリー型イベントの参加者の回遊に関するモチベーションの実験的調査
-坂本 唯斗, 御手洗 彰, 棟方 渚, 研究報告エンタテインメントコンピューティング (EC), March 2022.
-  ユーザによる外観制作に基づくロボット外観特徴分類及びユーザ嗜好抽出の試み
-加藤 雄大, 御手洗 彰, 棟方 渚 Human-Agent Interactionシンポジウム2022, March 2022.
-  筋肉の非活動部位を活用した外科手術用の筋電入力インタフェースの検討 研究報告ヒューマンコンピュータインタラクション (HCI), January 2022. 御手洗 彰, 棟方 渚
-  2021年 論文誌  Designing Hand Gesture Sequence Recognition Technique for Input While Grasping an Object Sho Mitarai, Nagisa Munekata, Daisuke Sakamoto, Tetsuo Ono Transactions of the Virtual Reality Society of Japan, 26(4), pages 333-344, December 2021.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://munekata-lab.github.io/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://munekata-lab.github.io/research/</guid>
-      <description>学部生の卒業研究テーマ 2021年度  香りを再現して提示するプルースト現象の意図的発現が記憶に与える影響の調査 スタンプラリ型イベント参加者の行動誘導を行う混雑解消システムの検討 ロボットの介入によるレクリエーション援助効果の調査 ストレングスTEBBモデルを基にした自己PR作成支援アプリケーションの提案 楽器音に対応した複数振動提示が音楽聴取体験に及ぼす影響の調査  2020年度  運転スタイルの相違による同乗者の運転負担感受性の分析 テーマパーク初心者の満足度向上に向けたリピータの巡回モデルの調査と巡回経路構築手法の検討 術中のメインタスクと共存可能な筋電入力インタフェースの実現可能性の調査 特殊詐欺の実音声を用いた被疑者の発話情報の調査と分析  2019年度  スマートウォッチを用いた長期間心拍測定データの活用とその有効性に関する検討 裏拍とリズム感の関係性に関する調査 ロボットの存在感が学習効果に与える影響の調査 呼吸筋トレーニングゲームの提案と検討  2018年度  ドラムの基礎練習支援システムの提案 陸上競技初学者のクラウチングスタート動作習得のための指導方法の提案 ー熟達者と初学者の動作の筋電位による比較ー 失敗するロボットに対する人間の行動・情動特性の評価 SNS情報分析による人気スポット推薦システムの検討 人狼ゲームにおける強いプレイヤの思考過程分析の試み  </description>
-    </item>
-    
   </channel>
 </rss>
