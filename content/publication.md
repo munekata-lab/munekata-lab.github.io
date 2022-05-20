@@ -3,11 +3,11 @@
 - [スタンプラリー型イベントの参加者の回遊に関するモチベーションの実験的調査](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=217532&item_no=1&page_id=13&block_id=8)  
 坂本 唯斗, 御手洗 彰, 棟方 渚, 研究報告エンタテインメントコンピューティング (EC), March 2022.
 
-- ユーザによる外観制作に基づくロボット外観特徴分類及びユーザ嗜好抽出の試み  
+- [ユーザによる外観制作に基づくロボット外観特徴分類及びユーザ嗜好抽出の試み](https://hai-conference.net/symp2022/proceedings/html/paper/paper-D-3.html)  
 加藤 雄大, 御手洗 彰, 棟方 渚
 Human-Agent Interactionシンポジウム2022, March 2022.
 
-- 筋肉の非活動部位を活用した外科手術用の筋電入力インタフェースの検討  研究報告ヒューマンコンピュータインタラクション (HCI), January 2022.
+- [筋肉の非活動部位を活用した外科手術用の筋電入力インタフェースの検討](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=214610&item_no=1&page_id=13&block_id=8)  研究報告ヒューマンコンピュータインタラクション (HCI), January 2022.
 御手洗 彰, 棟方 渚
 
 
