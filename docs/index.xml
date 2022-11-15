@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<?xml-stylesheet type="text/xsl" href="https://munekata-lab.github.io/xml/base.min.xml" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Munekata Laboratory</title>
@@ -7,188 +6,209 @@
     <description>Recent content on Munekata Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://munekata-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://munekata-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>山下記念研究賞を受賞</title>
       <link>https://munekata-lab.github.io/news/2022-08-03/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://munekata-lab.github.io/news/2022-08-03/</guid>
-      <description>&lt;p&gt;2022年度情報処理学会にて，坂本くん（M1）が「スタンプラリー型イベントの参加者の回遊に関するモチベーションの実験的調査」で山下記念研究賞を受賞しました！
-&lt;a href=&#34;https://www.ipsj.or.jp/award/yamashita2022.html&#34;&gt;https://www.ipsj.or.jp/award/yamashita2022.html&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>2022年度情報処理学会にて，坂本くん（M1）が「スタンプラリー型イベントの参加者の回遊に関するモチベーションの実験的調査」で山下記念研究賞</description>
     </item>
+    
     <item>
       <title>【2022年度研究室配属について重要な連絡】</title>
       <link>https://munekata-lab.github.io/news/2022-06-08/</link>
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://munekata-lab.github.io/news/2022-06-08/</guid>
-      <description>&lt;p&gt;今年も研究室訪問の時期がやってきましたね✨
-棟方研究室に興味のある方や，そうでない人も視野を拡げる意味で，ぜひ一度訪問に来てみてください&lt;/p&gt;
-&lt;p&gt;ということで，棟方研の話を聞いてみたい方は以下のフォームから入力をお願いします！！
-&lt;a href=&#34;https://forms.gle/fdUZcZmQzXbbunGg6&#34;&gt;https://forms.gle/fdUZcZmQzXbbunGg6&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>今年も研究室訪問の時期がやってきましたね✨ 棟方研究室に興味のある方や，そうでない人も視野を拡げる意味で，ぜひ一度訪問に来てみてください という</description>
     </item>
+    
     <item>
       <title>新しい部屋ができました！！</title>
       <link>https://munekata-lab.github.io/news/2022-05-24/</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://munekata-lab.github.io/news/2022-05-24/</guid>
-      <description>&lt;p&gt;遂に棟方研に，念願の新しい広い部屋ができました！！&lt;/p&gt;
-&lt;p&gt;以前よりも部屋の広さはもちろんですが，一人当たりの作業スペースも広くなったので，これから作業が捗りそうです．
-ちょっとしたフリースペースもつくってみたので，そこでボードゲームとかもやれそうですね．
-これからの研究室生活がまた楽しみです！！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://munekata-lab.github.io/images/2022_newLabRoom.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</description>
+      <description>遂に棟方研に，念願の新しい広い部屋ができました！！ 以前よりも部屋の広さはもちろんですが，一人当たりの作業スペースも広くなったので，これから作</description>
     </item>
+    
     <item>
       <title>coming soon...</title>
       <link>https://munekata-lab.github.io/news/2022-05-20/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://munekata-lab.github.io/news/2022-05-20/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://munekata-lab.github.io/images/2022_newLab.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
+    
     <item>
       <title>HAI最優秀論文賞</title>
       <link>https://munekata-lab.github.io/news/2022-03-09/</link>
       <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://munekata-lab.github.io/news/2022-03-09/</guid>
-      <description>&lt;p&gt;M2の加藤くんがHAIシンポジウム2022にてHAI最優秀論文賞を受賞しました！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.kyoto-su.ac.jp/news/2022_ise/s1gk4u0000096mtx-img/20220401_196_award.jpg&#34; alt=&#34;&#34;&gt;
-（引用元：https://www.kyoto-su.ac.jp/news/2022_ise/20220401_196_award2022.html）&lt;/p&gt;
-</description>
+      <description>M2の加藤くんがHAIシンポジウム2022にてHAI最優秀論文賞を受賞しました！ （引用元：https://www.kyoto-su.ac.j</description>
     </item>
+    
     <item>
       <title>五期生の配属</title>
       <link>https://munekata-lab.github.io/news/2021-10-07/</link>
       <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://munekata-lab.github.io/news/2021-10-07/</guid>
-      <description>&lt;p&gt;今年も研究室に五人の学生が入りました！&lt;/p&gt;
-&lt;p&gt;それに伴って，昨日はオンラインで新入生歓迎会をやりました！
-色々な話やゲームで盛り上がりましたね，３年生たちも楽しんでくれていたら嬉しいです🤗
-&lt;img src=&#34;https://munekata-lab.github.io/images/2021_new_students.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</description>
+      <description>今年も研究室に五人の学生が入りました！ それに伴って，昨日はオンラインで新入生歓迎会をやりました！ 色々な話やゲームで盛り上がりましたね，３年生</description>
     </item>
+    
     <item>
       <title>【2021年度研究室配属について重要な連絡】</title>
       <link>https://munekata-lab.github.io/news/2021-05-26/</link>
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://munekata-lab.github.io/news/2021-05-26/</guid>
-      <description>&lt;p&gt;今日からおそらく研究室訪問期間がスタートすると思いますが，棟方研究室はオンラインでも訪問歓迎しています．
-棟方研究室に興味のある方はぜひこの機会に訪れてみてください！！&lt;/p&gt;
-&lt;p&gt;訪問してみたい方は下記のURLから必要事項の記入をお願いします．
-&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdOo5qloWo0m4pKUYJjc7wcj4DJC9qKEbvBBrQ7E9CHR6riWA/closedform&#34;&gt;https://docs.google.com/forms/d/e/1FAIpQLSdOo5qloWo0m4pKUYJjc7wcj4DJC9qKEbvBBrQ7E9CHR6riWA/closedform&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>今日からおそらく研究室訪問期間がスタートすると思いますが，棟方研究室はオンラインでも訪問歓迎しています． 棟方研究室に興味のある方はぜひこの機</description>
     </item>
+    
     <item>
       <title>四期生の配属</title>
       <link>https://munekata-lab.github.io/news/2020-09-18/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://munekata-lab.github.io/news/2020-09-18/</guid>
-      <description>&lt;p&gt;研究室配属の結果が発表されたみたいですね。
-研究室配属された学生の皆様、おめでとうございます！！
-棟方研究室は多くの学生から希望して頂いたみたいで、中の人はとても驚いています。&lt;/p&gt;
-&lt;p&gt;このご時世ではありますが、配属された学生の皆様が楽しい研究室生活を送れることを願っています。&lt;/p&gt;
-&lt;p&gt;（写真は撮り忘れました．．．）&lt;/p&gt;
-</description>
+      <description>研究室配属の結果が発表されたみたいですね。 研究室配属された学生の皆様、おめでとうございます！！ 棟方研究室は多くの学生から希望して頂いたみたい</description>
     </item>
+    
     <item>
       <title>【2020年度研究室配属について重要な連絡】</title>
       <link>https://munekata-lab.github.io/news/2020-07-09/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://munekata-lab.github.io/news/2020-07-09/</guid>
-      <description>&lt;p&gt;前日告知になってすみません！！&lt;/p&gt;
-&lt;p&gt;明日の10日(金)19時から30分間、棟方研究室の説明会をオンラインにて行わせていただきます。
-開始時間頃にMoodleにて説明会に参加できるURLを記載するのでぜひぜひご参加ください。&lt;/p&gt;
-&lt;p&gt;学生も参加する予定なので生の声も聴けると思います。
-よろしくお願いします！！&lt;/p&gt;
-&lt;p&gt;以下に、学生面談シートのリンクを載せておきますので、面談希望者の方はどうぞご記入の方よろしくお願いします！
-&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfcMLc37fOpHdnNUf5VyeU0fokR9L2nT9kPswvLPsdA4wqEDQ/closedform&#34;&gt;https://docs.google.com/forms/d/e/1FAIpQLSfcMLc37fOpHdnNUf5VyeU0fokR9L2nT9kPswvLPsdA4wqEDQ/closedform&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>前日告知になってすみません！！ 明日の10日(金)19時から30分間、棟方研究室の説明会をオンラインにて行わせていただきます。 開始時間頃にMo</description>
     </item>
+    
     <item>
       <title>棟方先生がテレビに出ます</title>
       <link>https://munekata-lab.github.io/news/2020-04-15/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://munekata-lab.github.io/news/2020-04-15/</guid>
-      <description>&lt;p&gt;新型コロナウィルスの影響で詐欺等が増えていることから、NHKで棟方先生が実験協力しました「ためしてガッテン」が再放送されます！是非、お家でごらんください！
-&lt;a href=&#34;https://www9.nhk.or.jp/gatten/articles/20200415/index.html&#34;&gt;https://www9.nhk.or.jp/gatten/articles/20200415/index.html&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>新型コロナウィルスの影響で詐欺等が増えていることから、NHKで棟方先生が実験協力しました「ためしてガッテン」が再放送されます！是非、お家でご</description>
     </item>
+    
     <item>
       <title>三期生の配属</title>
       <link>https://munekata-lab.github.io/news/2019-10-23/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://munekata-lab.github.io/news/2019-10-23/</guid>
-      <description>&lt;p&gt;今年も研究室に4名の三回生が配属されました！ようこそ～&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://munekata-lab.github.io/images/2019_new_students.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</description>
+      <description>今年も研究室に4名の三回生が配属されました！ようこそ～</description>
     </item>
+    
     <item>
       <title>【2019年度研究室配属について重要な連絡】</title>
       <link>https://munekata-lab.github.io/news/2019-05-16/</link>
       <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://munekata-lab.github.io/news/2019-05-16/</guid>
-      <description>&lt;p&gt;研究室訪問を希望される方はまずこちらの面談シートにご記入ください．
-&lt;a href=&#34;https://forms.gle/txC4Y1ms42aiutwn6&#34;&gt;https://forms.gle/txC4Y1ms42aiutwn6&lt;/a&gt;&lt;br&gt;
-不明な点があればリプライ，質問箱まで！&lt;br&gt;
-∧＿∧&lt;br&gt;
-( ´･ω･)&lt;br&gt;
-( つ旦O  お待ちしてま〜す&lt;br&gt;
-と＿)＿) 　　 旦&lt;/p&gt;
-</description>
+      <description>研究室訪問を希望される方はまずこちらの面談シートにご記入ください． https://forms.gle/txC4Y1ms42aiutwn6 不明な点があればリプライ，質問箱まで！ ∧＿∧ ( ´･ω･) ( つ旦O お待ちし</description>
     </item>
+    
     <item>
       <title>HAIシンポジウムに参加しています</title>
       <link>https://munekata-lab.github.io/news/2019_03_08/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://munekata-lab.github.io/news/2019_03_08/</guid>
-      <description>&lt;p&gt;本日と明日に開催されます，HAIシンポジウム(専修大 生田キャンパス)に来ております．
-&lt;a href=&#34;http://hai-conference.net/symp2018/&#34;&gt;http://hai-conference.net/symp2018/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://munekata-lab.github.io/images/2019_HAI_symposium.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</description>
+      <description>本日と明日に開催されます，HAIシンポジウム(専修大 生田キャンパス)に来ております． http://hai-conference.net/symp2018/</description>
     </item>
+    
     <item>
       <title>二期生の配属</title>
       <link>https://munekata-lab.github.io/news/2018-09-20/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://munekata-lab.github.io/news/2018-09-20/</guid>
-      <description>&lt;p&gt;今日は新3年生の初回の特研です！
-今年は4人の学生が配属してくれました&lt;/p&gt;
-&lt;p&gt;これからよろしくお願いしますm(._.)m&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://munekata-lab.github.io/images/2018_new_students.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</description>
+      <description>今日は新3年生の初回の特研です！ 今年は4人の学生が配属してくれました これからよろしくお願いしますm(._.)m</description>
     </item>
+    
     <item>
       <title>棟方研究室主催 勉強会のお知らせ</title>
       <link>https://munekata-lab.github.io/news/2018-06-27/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://munekata-lab.github.io/news/2018-06-27/</guid>
-      <description>&lt;p&gt;前回は筋電についての勉強会をしましたが, 今回は研究室メンバのリクエストより, 講師を招き「Deep Learningの勉強会(初級)」を行います.&lt;/p&gt;
-&lt;p&gt;日時は, 6月30日（土）15:00～となります.
-誰でも参加可能なので是非ご参加ください！&lt;/p&gt;
-</description>
+      <description>前回は筋電についての勉強会をしましたが, 今回は研究室メンバのリクエストより, 講師を招き「Deep Learningの勉強会(初級)」を行います</description>
     </item>
+    
     <item>
       <title>【2018年度研究室配属について重要な連絡】</title>
       <link>https://munekata-lab.github.io/news/2018-05-23/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://munekata-lab.github.io/news/2018-05-23/</guid>
-      <description>&lt;p&gt;本年度の研究室配属についての説明をMoodle(配属ページ)に追記しました.&lt;/p&gt;
-&lt;p&gt;教員点6点(最大点)を取るためには, 教員の面談が必須となります.
-配属を前向きに考えており, 教員との面談を希望する学生は, あらかじめ面談シートを記載の上, 面談日時の予約をしてください.&lt;/p&gt;
-</description>
+      <description>本年度の研究室配属についての説明をMoodle(配属ページ)に追記しました. 教員点6点(最大点)を取るためには, 教員の面談が必須となります.</description>
     </item>
+    
     <item>
       <title>棟方研究室主催で勉強会を行いました</title>
       <link>https://munekata-lab.github.io/news/2018-04-28/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://munekata-lab.github.io/news/2018-04-28/</guid>
-      <description>&lt;p&gt;今日は, 棟方先生がご指導されていた学生をゲストでお招きし, 勉強会を開催しました．
-講師の皆様, および棟方研究室以外でご参加頂いた学生さん, ありがとうございましたm(._.)m&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://munekata-lab.github.io/images/2018_study_group.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</description>
+      <description>今日は, 棟方先生がご指導されていた学生をゲストでお招きし, 勉強会を開催しました． 講師の皆様, および棟方研究室以外でご参加頂いた学生さん, あり</description>
     </item>
+    
+    <item>
+      <title></title>
+      <link>https://munekata-lab.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://munekata-lab.github.io/about/</guid>
+      <description>京都産業大学 情報理工学部/先端情報学研究科 棟方研究室のWebサイトです． </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://munekata-lab.github.io/member/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://munekata-lab.github.io/member/</guid>
+      <description>指導教員  棟方 渚  D3  御手洗 彰  M2  辻 健一郎  M1  阿部 拓巳 坂本 唯斗 長江 明信 増田 智也  B4  梶原 隆太郎 木村 颯 小祝 亮樹 近藤 英雅 松中 誉生  B3  上杉 瑠架 藏立 晴喜 田邉 映紀 張 浩東 馬場 太一  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://munekata-lab.github.io/ob/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://munekata-lab.github.io/ob/</guid>
+      <description>2021年度博士前期課程（修士課程）卒業  加藤 雄大  2021年度学部卒業  阿部 拓巳 坂本 唯斗 永井 知温 長江 明信 増田 智也  2020年度博士前期課程（修士課程）卒業  山本 浩隆  2020年度学部卒業  齊藤 神太 小林 稔 小松 昴生 辻 健一郎  2019年度学部卒業  加藤 雄大 福知 慎也 三田村 俊樹 松下 優斗  2018年度学部卒業  木村 優太 冨田 俊一 樋口 由樹 福吉 貴春 山本 浩隆  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://munekata-lab.github.io/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://munekata-lab.github.io/publication/</guid>
+      <description>2022年 国内学会   スタンプラリー型イベントの参加者の回遊に関するモチベーションの実験的調査
+坂本 唯斗, 御手洗 彰, 棟方 渚, 研究報告エンタテインメントコンピューティング (EC), March 2022.
+  ユーザによる外観制作に基づくロボット外観特徴分類及びユーザ嗜好抽出の試み
+加藤 雄大, 御手洗 彰, 棟方 渚 Human-Agent Interactionシンポジウム2022, March 2022.
+  筋肉の非活動部位を活用した外科手術用の筋電入力インタフェースの検討 研究報告ヒューマンコンピュータインタラクション (HCI), January 2022. 御手洗 彰, 棟方 渚
+  2021年 論文誌  Designing Hand Gesture Sequence Recognition Technique for Input While Grasping an Object Sho Mitarai, Nagisa Munekata, Daisuke Sakamoto, Tetsuo Ono Transactions of the Virtual Reality Society of Japan, 26(4), pages 333-344, December 2021.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://munekata-lab.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://munekata-lab.github.io/research/</guid>
+      <description>学部生の卒業研究テーマ 2021年度  香りを再現して提示するプルースト現象の意図的発現が記憶に与える影響の調査 スタンプラリ型イベント参加者の行動誘導を行う混雑解消システムの検討 ロボットの介入によるレクリエーション援助効果の調査 ストレングスTEBBモデルを基にした自己PR作成支援アプリケーションの提案 楽器音に対応した複数振動提示が音楽聴取体験に及ぼす影響の調査  2020年度  運転スタイルの相違による同乗者の運転負担感受性の分析 テーマパーク初心者の満足度向上に向けたリピータの巡回モデルの調査と巡回経路構築手法の検討 術中のメインタスクと共存可能な筋電入力インタフェースの実現可能性の調査 特殊詐欺の実音声を用いた被疑者の発話情報の調査と分析  2019年度  スマートウォッチを用いた長期間心拍測定データの活用とその有効性に関する検討 裏拍とリズム感の関係性に関する調査 ロボットの存在感が学習効果に与える影響の調査 呼吸筋トレーニングゲームの提案と検討  2018年度  ドラムの基礎練習支援システムの提案 陸上競技初学者のクラウチングスタート動作習得のための指導方法の提案 ー熟達者と初学者の動作の筋電位による比較ー 失敗するロボットに対する人間の行動・情動特性の評価 SNS情報分析による人気スポット推薦システムの検討 人狼ゲームにおける強いプレイヤの思考過程分析の試み  </description>
+    </item>
+    
   </channel>
 </rss>
